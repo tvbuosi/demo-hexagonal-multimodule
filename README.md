@@ -1,0 +1,1 @@
+Estrutura de arquivos criado para implementacao do hexagonal com DDD
